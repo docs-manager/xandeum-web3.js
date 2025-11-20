@@ -8,7 +8,7 @@
 
 > **getXandeumResult**(`connection`, `signature`): `Promise`\<`any`\>
 
-Defined in: [getXandeumResult.ts:21](https://github.com/Xandeum/test_web3/blob/main/src/getXandeumResult.ts#L21)
+Defined in: [getXandeumResult.ts:21](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/getXandeumResult.ts#L21)
 
 Sends a JSON-RPC request to the Xandeum-compatible endpoint to retrieve
 the result of a transaction previously submitted with a specific signature.

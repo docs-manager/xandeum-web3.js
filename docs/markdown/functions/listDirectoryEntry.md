@@ -8,7 +8,7 @@
 
 > **listDirectoryEntry**(`connection`, `path`): `Promise`\<`any`\>
 
-Defined in: [listDirectoryEntery.ts:24](https://github.com/Xandeum/test_web3/blob/main/src/listDirectoryEntery.ts#L24)
+Defined in: [listDirectoryEntery.ts:24](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/listDirectoryEntery.ts#L24)
 
 Sends a JSON-RPC request to the Xandeum RPC endpoint to list all entries (files and subdirectories)
 within a specified path.

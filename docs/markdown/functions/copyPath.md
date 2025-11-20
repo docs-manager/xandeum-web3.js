@@ -8,7 +8,7 @@
 
 > **copyPath**(`fsid`, `srcPath`, `destPath`, `wallet`): `Promise`\<`Transaction`\>
 
-Defined in: [copyPath.ts:18](https://github.com/Xandeum/test_web3/blob/main/src/copyPath.ts#L18)
+Defined in: [copyPath.ts:18](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/copyPath.ts#L18)
 
 Constructs a Solana transaction to copy a file or directory from one  path to another.
 

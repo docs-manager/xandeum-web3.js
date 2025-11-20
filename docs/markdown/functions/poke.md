@@ -8,7 +8,7 @@
 
 > **poke**(`fsid`, `path`, `position`, `wallet`, `dataKey`): `Promise`\<`Transaction`\>
 
-Defined in: [poke.ts:19](https://github.com/Xandeum/test_web3/blob/main/src/poke.ts#L19)
+Defined in: [poke.ts:19](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/poke.ts#L19)
 
 Constructs a Solana transaction to perform a poke\operation, which writes data
 to a file at the specified path and byte position.

@@ -8,7 +8,7 @@
 
 > **renamePath**(`fsid`, `oldPath`, `name`, `wallet`): `Promise`\<`Transaction`\>
 
-Defined in: [renamePath.ts:18](https://github.com/Xandeum/test_web3/blob/main/src/renamePath.ts#L18)
+Defined in: [renamePath.ts:18](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/renamePath.ts#L18)
 
 Constructs a Solana transaction to rename (or move) a file or directory
 within a file system, based on a provided file system ID (`fsid`).

@@ -16,7 +16,7 @@
     "excludeNotDocumented": false,
     "gitRemote": "origin",
     "gitRevision": "main",
-    "sourceLinkTemplate": "https://github.com/Xandeum/test_web3/blob/{gitRevision}/{path}#L{line}",
+    "sourceLinkTemplate": "https://github.com/Xandeum/xandeum-web3.js/blob/{gitRevision}/{path}#L{line}",
     "visibilityFilters": {
       "protected": false,
       "private": false,
