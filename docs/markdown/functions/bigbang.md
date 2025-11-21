@@ -8,7 +8,7 @@
 
 > **bigbang**(`wallet`): `Promise`\<`Transaction`\>
 
-Defined in: [bigbang.ts:10](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/bigbang.ts#L10)
+Defined in: [bigbang.ts:10](https://github.com/Xandeum/xandeum-web3.js/blob/master/src/bigbang.ts#L10)
 
 Constructs a Solana transaction that triggers the "bigbang" instruction and create new file system.
 

@@ -8,7 +8,7 @@
 
 > **createDirectory**(`fsid`, `path`, `name`, `wallet`): `Promise`\<`Transaction`\>
 
-Defined in: [createDirectory.ts:17](https://github.com/Xandeum/xandeum-web3.js/blob/main/src/createDirectory.ts#L17)
+Defined in: [createDirectory.ts:17](https://github.com/Xandeum/xandeum-web3.js/blob/master/src/createDirectory.ts#L17)
 
 Constructs a Solana transaction to create a new directory within a  file system.
 
